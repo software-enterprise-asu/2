@@ -1,0 +1,9 @@
+| | |
+| --------- | ----------------------------------- |
+| __Title__ | Software Process |
+| __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
+| __Author__ | Kevin Gary |
+| __Mapping to Content Taxonomy__ | __SEEK:__ PRO <br> __CS2013:__ SE/Software Processes |
+| __Abstract__ | This module discusses the different software lifecycle models such as waterfall model, iterative and incremental model, spiral model, RUP and Agile/XP. It goes on to give a summary on the pros and cons of each of the models. |
+| __Size__ | __Preparation:__ 1 hour Reading <br/> __Preparation Quiz:__ 30 minutes <br/> __Discussion:__ 75 minutes <br/> __Practice:__ 2 hours 30 minutes |
+| __Comments__ | |
