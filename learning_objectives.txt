@@ -1,1 +1,1 @@
- * Understand the phases of the Software Processes.
+ * Understand the phases of the Software Process.
